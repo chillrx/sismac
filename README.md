@@ -1,3 +1,2 @@
 # SISMAC
-SISMAC is a crud made for a university project
-
+A project made with java using DAO.
